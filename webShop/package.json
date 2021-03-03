@@ -1,0 +1,19 @@
+{
+	"name": "webshop",
+	"version": "1.0.0",
+	"description": "Web Shop Testing",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"@shelex/cypress-allure-plugin": "^1.8.3",
+		"cypress": "^5.4.0",
+		"cypress-iframe": "^1.0.1"
+	},
+	"scripts": {
+		"cy:run": "npx cypress run --config video=false --env allure=true",
+		"allure:generate": "allure generate allure-results --clean",
+		"allure:open": "allure open allure-report",
+		"test": "npx npm-run-all cy:run allure:generate allure:open"
+	},
+	"license": "ISC"
+}

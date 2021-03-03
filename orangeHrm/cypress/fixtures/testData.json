@@ -1,0 +1,13 @@
+{
+    "checkMyInfoTestData" : {
+        "firstName": "Jacqueline",
+        "lastName": "White",
+        "middleName": "",
+        "employeeId": "1020",
+        "empBirthday": "Sun, 17 Nov 1991",
+        "martialStatus": "Single",
+        "gender": "Female",
+        "nationality": "Ukrainian",
+        "licenseExpDate": "Wed, 15 Feb 2023"
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"name": "orangehrm",
+	"version": "1.0.0",
+	"description": "Cypress demo project",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"@shelex/cypress-allure-plugin": "^1.8.3",
+		"cypress": "^5.4.0",
+		"cypress-iframe": "^1.0.1"
+	},
+	"scripts": {
+		"test": "npx cypress run",
+		"open": "npx cypress open"
+	},
+	"license": "ISC"
+}

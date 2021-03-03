@@ -1,0 +1,46 @@
+{
+    "fadedShortTestData" : {
+         "productName" : "Faded Short Sleeve T-shirts",
+         "productAttributes" : "Blue, M",
+         "quantityNumber" : "2",
+         "orderProductAttributes" : "Color : Blue, Size : M",
+         "orderTotalPrice" : "$35.02"
+     },
+
+     "blouseTestData" : {
+          "productName" : "Blouse",
+          "productAttributes" : "Black, M",
+          "quantityNumber" : "2",
+          "orderProductAttributes" : "Color : Black, Size : M",
+          "orderTotalPrice" : "$56.00"
+     },
+
+     "printedDressTestData" : {
+          "productName" : "Printed Dress",
+          "productAttributes" : "Orange, M",
+          "quantityNumber" : "2",
+          "orderProductAttributes" : "Color : Orange, Size : M",
+          "orderTotalPrice" : "$54.00"
+     },
+
+     "printedSummerDressTestData" : {
+          "productName" : "Printed Summer Dress",
+          "productAttributes" : "Yellow, M",
+          "quantityNumber" : "2",
+          "orderProductAttributes" : "Color : Yellow, Size : M",
+          "orderTotalPrice" : "$59.96"
+     },
+
+     "printedChiffonDressTestData" : {
+          "productName" : "Printed Chiffon Dress",
+          "productAttributes" : "Yellow, M",
+          "quantityNumber" : "2",
+          "orderProductAttributes" : "Color : Yellow, Size : M",
+          "orderTotalPrice" : "$34.80"
+     },
+
+    "loginPageData" : {
+         "loginPageHeader" : "Authentication",
+         "createAccountText" : "Create an account"
+    }
+}
